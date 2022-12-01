@@ -23,6 +23,6 @@ FOR /R %%d IN (.) DO (		for folders in the stack, do...
 )				endfor
 POPD				pop folder from stack
 
-Yeah. It's Assembly/SQL-lite. Maybe it's closer to C, newer used it. This things way too good.
+Yeah. It's Assembly/SQL-lite. Maybe it's closer to C, never used it. This things way too good.
 It's also fantastic to rename those devianart files. Will definitely abuse it.
-25/10/2022 - William Wallace Walter, not Walter White.
+25/10/2022
