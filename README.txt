@@ -1,3 +1,9 @@
+<h4>This repo includes</h4>
+<p>- change.bat for changing file extensions
+   - name.bat for retrieving file names
+   </p>
+
+<h3>CHANGE.bat</h3>
 I made this kit to extract my MangaRock files, though, I ended up finding something really useful.
 
 Anyway, here's what's in that folder:
@@ -23,6 +29,9 @@ FOR /R %%d IN (.) DO (		for folders in the stack, do...
 )				endfor
 POPD				pop folder from stack
 
-Yeah. It's Assembly/SQL-lite. Maybe it's closer to C, never used it. This things way too good.
+Yeah. It's Assembly/SQL-like. Maybe it's closer to C, never used it. This things way too good.
 It's also fantastic to rename those devianart files. Will definitely abuse it.
 25/10/2022
+
+<h3>NAME.bat</h3>
+Got this from SO and honestly, I don't know why I don't try to learn it.
