@@ -14,7 +14,7 @@ Movies/.Mintegral_VC	[Also Ads]<br>
 logs			[Logs]<br>
 the rest		[Manga chapters]<br>
 	
-.bat, a.k.a. a Windows Batch File runs when you click on it. Here's the code, with an explanation:
+.bat, a.k.a. a Windows Batch File runs when you click on it. Here's the code, with an explanation:<br>
 @ECHO OFF			turns logs off<br>
 PUSHD .				place the folder it's in for execution<br>
 FOR /R %%d IN (.) DO (		for folders in the stack, do...<br>
