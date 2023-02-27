@@ -1,6 +1,6 @@
 <h4>This repo includes</h4>
-<p>- change.bat for changing file extensions
-   - name.bat for retrieving file names
+<p>- change.bat for changing file <br>
+   - name.bat for retrieving file names<br>
    </p>
 
 <h3>CHANGE.bat</h3>
