@@ -4,6 +4,8 @@
    - nested.bat for checking for nested folders<br>
    </p>
 
+# Notes and Thoughts #
+
 <h3>CHANGE.bat</h3>
 <p>I made this kit to extract my MangaRock files, though, I ended up finding something really useful.
 
