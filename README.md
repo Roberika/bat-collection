@@ -1,6 +1,7 @@
 <h4>This repo includes</h4>
 <p>- change.bat for changing file extensions to .jpg<br>
    - name.bat for retrieving file names<br>
+   - nested.bat for checking for nested folders<br>
    </p>
 
 <h3>CHANGE.bat</h3>
@@ -32,4 +33,8 @@ It's also fantastic to rename those devianart files. Will definitely abuse it.
 
 <h3>NAME.bat</h3>
 <p>Got this from SO and honestly, I don't know why I don't try to learn it.
+</p>
+
+<h3>NESTED.bat</h3>
+<p>Made this one myself. It's not terribly useful, but it's good for data scrapping larges filebases.
 </p>
